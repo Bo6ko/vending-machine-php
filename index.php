@@ -62,6 +62,10 @@
         <button id="deleteDrinkBtn">Изтриване на напитка</button>
     </div>
     <br/><br/><br/>
+
+    <footer>
+        Developed by <a href="https://bs-solutions.azurewebsites.net/">B. Shopov: https://bs-solutions.azurewebsites.net/</a>
+    </footer>
     
 </body>
 </html>
